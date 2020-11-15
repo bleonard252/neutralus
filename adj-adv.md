@@ -63,5 +63,5 @@ deco|du|ial
 
 The number stem can have an -o- to add a digit for numbers up to 1000. Above 999, after the -or-, add the other digit stems, going down as you go. For 1246, for example, it would come out to be thousodeduoquadohexial.
 
-[ss]: /lingua/special-sentence
-[n]: /lingua/nouns
+[ss]: /neutralus/special-sentence
+[n]: /neutralus/nouns
