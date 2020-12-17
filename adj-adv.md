@@ -24,6 +24,7 @@ Some adverbs have different uses than you'd think an adverb would, such as "Why"
 
 ## Numbers
 Since numbers are adjectives, the following is a list of numbers in their decimal notation and notation in words.
+
 \#  | Ordinal         | Cardinal
 ----|-----------------|----------------
 1   | un**ial**       | un**eral**
@@ -53,15 +54,15 @@ Note that the adjective "new" translates to "noval," and "nine" translates to "n
 1e9 | tripor**ial**   | tripor**eral**
 
 
-Prefix | Root | Suffix
+Prefix    | Root    | Suffix
 ----------|---------|---------
-de|dec|ial
-du|or|ial
-deco, duo|trip|ial
-deco|du|ial
---|un|ial
+de        | dec     | ial
+du        | or      | ial
+deco, duo | trip    | ial
+deco      | du      | ial
+--        | un      | ial
 
 The number stem can have an -o- to add a digit for numbers up to 1000. Above 999, after the -or-, add the other digit stems, going down as you go. For 1246, for example, it would come out to be thousodeduoquadohexial.
 
-[ss]: /neutralus/special-sentence
+[ss]: /neutralus/special-struct
 [n]: /neutralus/nouns

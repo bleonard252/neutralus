@@ -6,6 +6,6 @@ Neutralus will be an enhanced version of English, with some bases in Italian/Lat
 * [Nouns](/neutralus/nouns)
 * [Pronouns](/neutralus/pronoun)
 * [Adj/Advs](/neutralus/adj-adv)
-* [Sp. Sent. Structs](/neutralus/special-sentence)
+* [Sp. Sent. Structs](/neutralus/special-struct)
 * [Verbs](/neutralus/verbs)
 * [Conj + Prep](/neutralus/conj-prep)
